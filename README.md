@@ -8,4 +8,11 @@ Timestamp Microservice
     
     User Story: If it does not contain a date or Unix timestamp, it returns null for those properties. 
     
-    
+Getting Started:
+
+1. Git clone project
+2. npm install
+3. node app.js
+4. Launch a browser
+5. Go to http://localhost:8080/
+6. Timestamp Microservice should display
